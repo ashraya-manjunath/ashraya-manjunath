@@ -1,134 +1,149 @@
-<h1 align="center">Hi 👋, I'm Ashraya M</h1>
+<h1 align="center">🚀 Ashraya M 🚀</h1>
 
-<h3 align="center">🚀 AI & ML Engineer | Computer Vision Developer | Cloud & Full Stack Enthusiast</h3>
+<h3 align="center">
+AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Computer+Vision+Developer;AWS+Cloud+Enthusiast;Building+Smart+AI+Systems;Full+Stack+Developer;Agentic+AI+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;AWS+Cloud+Enthusiast;Building+Real-World+AI+Systems;Full+Stack+AI+Developer;Multi-Agent+AI+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashraya-manjunath&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=ASHRAYA%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Cloud%20%7C%20Computer%20Vision&descAlignY=55&descSize=20"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashraya-manjunath&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<img align="right" width="350" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
 # 💫 About Me
 
-- 🎓 AI & ML Engineering Student at **Sai Vidya Institute of Technology**
-- 🧠 Passionate about **Artificial Intelligence, Computer Vision & Agentic AI**
-- ☁️ Building scalable intelligent systems using **AWS Cloud**
-- 🔥 Experienced in **GANs, FaceNet, YOLOv8, Deep Learning & Fraud Detection**
-- 🚀 Creating real-world AI applications with modern full-stack technologies
-- 🏆 Participant at **HackMarch 2.0 – Industrial Grade Agentic AI Hackathon**
+- 🎓 AI & ML Engineering Student
+- 🧠 Passionate about Artificial Intelligence & Deep Learning
+- ☁️ AWS Cloud Enthusiast
+- 🤖 Building intelligent real-world AI systems
+- 🔥 Specialized in:
+  - GANs
+  - Computer Vision
+  - Agentic AI
+  - Multi-Agent Systems
+  - Fraud Detection
+  - YOLOv8
+- 🏆 HackMarch 2.0 Industrial Grade Agentic AI Hackathon Participant
 - 📈 CGPA: **9.55 / 10**
-- 🌱 Currently exploring:
-  - Multi-Agent AI Systems
-  - Advanced LLM Pipelines
-  - AI Infrastructure
-  - Cloud-Native AI Applications
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 UPI Fraud Nexus — AI Fraud Detection System
+## 🔐 UPI Fraud Nexus
 
-🧠 GAN-based synthetic data generation with Random Forest & XGBoost ensemble for intelligent fraud detection.
+AI-powered fraud detection system using GANs, Random Forest & XGBoost for intelligent fraud analysis.
 
-### 🛠️ Tech Stack
-`Python` `GAN` `Random Forest` `XGBoost` `Flask`
+### ⚡ Tech Stack
+`Python` `GANs` `Random Forest` `XGBoost` `Flask`
 
 ---
 
 ## 🎭 Smart Attendance System
 
-Face recognition attendance system powered by FaceNet embeddings and MTCNN detection.
+Real-time Face Recognition Attendance System using FaceNet, MTCNN & OpenCV.
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack
 `Python` `FaceNet` `PyTorch` `OpenCV` `Streamlit`
 
 ---
 
-## 🛰️ Cloud GPS Toll Collection System
+## 🛰️ Cloud GPS Toll Collection
 
-Cloud-enabled GPS smart toll collection system using geofencing and live vehicle tracking.
+Cloud-enabled smart toll collection system using GPS geofencing and AWS cloud infrastructure.
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack
 `Python` `AWS` `MongoDB Atlas` `Flask`
 
 ---
 
-## 🧠 SynapseAI — Multiagent System for Research Paper Discovery
+## 🧠 SynapseAI — Multiagent Research System
 
-AI-powered research paper discovery platform using multi-agent systems and intelligent information retrieval.
-
-### 🛠️ Tech Stack
-`Python` `LLMs` `Multi-Agent Systems`
+Multi-Agent AI system for intelligent research paper discovery and academic exploration.
 
 🔗 Repository:
 https://github.com/ashraya-manjunath/SynapseAI-Multiagent-System-for-Research-Paper-Discovery
+
+### ⚡ Tech Stack
+`Python` `LLMs` `Multi-Agent Systems`
 
 ---
 
 ## 🌱 LifeOS — AI for Health & Longevity
 
-AI-powered longevity and wellness assistant built during HackMarch 2.0.
-
-### 🛠️ Tech Stack
-`Python` `Agentic AI` `LLMs`
+Agentic AI-powered wellness assistant built during HackMarch 2.0 Hackathon.
 
 🔗 Repository:
 https://github.com/ashraya-manjunath/LifeOS---AI-for-Health-Longevity-
+
+### ⚡ Tech Stack
+`Python` `Agentic AI` `LLMs`
 
 ---
 
 ## ♻️ Waste Classification using YOLOv8
 
-Real-time smart waste classification using YOLOv8 and computer vision.
-
-### 🛠️ Tech Stack
-`Python` `YOLOv8` `Deep Learning`
+Real-time waste classification system using YOLOv8 and deep learning.
 
 🔗 Repository:
 https://github.com/ashraya-manjunath/Waste-Classification-using-YOLOv8
+
+### ⚡ Tech Stack
+`Python` `YOLOv8` `Deep Learning`
 
 ---
 
 ## 📱 QR Attendance AI
 
-AI-powered QR attendance management system for smart attendance tracking.
-
-### 🛠️ Tech Stack
-`Python` `Flask` `HTML` `CSS` `JavaScript`
+Smart QR-based attendance management system with automation features.
 
 🔗 Repository:
 https://github.com/ashraya-manjunath/qr-attendance-ai-main
+
+### ⚡ Tech Stack
+`Python` `Flask` `HTML` `CSS` `JavaScript`
 
 ---
 
 # 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,flask,mysql,mongodb,tensorflow,pytorch,opencv,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,flask,mysql,mongodb,tensorflow,pytorch,opencv,aws,git,github,vscode" />
 </p>
 
 ---
 
-# 🤖 AI / ML Expertise
+# 🤖 AI & ML Expertise
 
 <p align="center">
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-FF4088?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FFB000?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C853?style=for-the-badge)
-![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GANs-FF4088?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-FFB000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
@@ -137,9 +152,11 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashraya-manjunath&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraya-manjunath&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashraya-manjunath&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ashraya-manjunath&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -147,7 +164,7 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 # 📈 Most Used Languages
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraya-manjunath&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraya-manjunath&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -155,14 +172,16 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashraya-manjunath&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashraya-manjunath&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Ashraya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashraya-manjunath&theme=tokyo-night)](https://github.com/ashraya-manjunath)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraya-manjunath&theme=tokyo-night"/>
+</p>
 
 ---
 
@@ -181,40 +200,42 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 - 🌟 Google Gemini Student Ambassador
 - 👨‍💻 President — CodeNex Coding Club
 - 🎓 Class Representative (CR)
-- 🚀 Mentored juniors in AI/ML & competitive programming
+- 🚀 Mentored juniors in AI/ML & Competitive Programming
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashraya-manjunath">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:ashrayamanjunathh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
-  <a href="https://github.com/ashraya-manjunath">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
+<a href="https://linkedin.com/in/ashraya-manjunath">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ashrayamanjunathh@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/ashraya-manjunath">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Philosophy
 
 ```python
 while(alive):
     learn()
     build()
     innovate()
-    repeat()
+    evolve()
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer"/>
 </p>
