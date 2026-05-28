@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ashraya M 🚀</h1>
 
 <h3 align="center">
-AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
+AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer Data Analyst
 </h3>
 
 <p align="center">
@@ -36,6 +36,7 @@ AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
   - Agentic AI
   - Multi-Agent Systems
   - Fraud Detection
+  - Data Science
   - YOLOv8
 - 🏆 HackMarch 2.0 Industrial Grade Agentic AI Hackathon Participant
 - 📈 CGPA: **9.55 / 10**
