@@ -22,7 +22,7 @@ AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
 # 💫 About Me
 
@@ -39,6 +39,7 @@ AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
   - YOLOv8
 - 🏆 HackMarch 2.0 Industrial Grade Agentic AI Hackathon Participant
 - 📈 CGPA: **9.55 / 10**
+- 🚀 Building scalable AI-powered applications with modern technologies
 
 ---
 
@@ -47,6 +48,9 @@ AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
 ## 🔐 UPI Fraud Nexus
 
 AI-powered fraud detection system using GANs, Random Forest & XGBoost for intelligent fraud analysis.
+
+🔗 Repository:
+https://github.com/ashraya-manjunath
 
 ### ⚡ Tech Stack
 `Python` `GANs` `Random Forest` `XGBoost` `Flask`
@@ -57,6 +61,9 @@ AI-powered fraud detection system using GANs, Random Forest & XGBoost for intell
 
 Real-time Face Recognition Attendance System using FaceNet, MTCNN & OpenCV.
 
+🔗 Repository:
+https://github.com/ashraya-manjunath
+
 ### ⚡ Tech Stack
 `Python` `FaceNet` `PyTorch` `OpenCV` `Streamlit`
 
@@ -65,6 +72,9 @@ Real-time Face Recognition Attendance System using FaceNet, MTCNN & OpenCV.
 ## 🛰️ Cloud GPS Toll Collection
 
 Cloud-enabled smart toll collection system using GPS geofencing and AWS cloud infrastructure.
+
+🔗 Repository:
+https://github.com/ashraya-manjunath/House-Rental-Management-System
 
 ### ⚡ Tech Stack
 `Python` `AWS` `MongoDB Atlas` `Flask`
@@ -153,26 +163,20 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashraya-manjunath&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashraya-manjunath&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=ashraya-manjunath&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraya-manjunath&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
+
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraya-manjunath&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashraya-manjunath&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -180,7 +184,9 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraya-manjunath&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraya-manjunath&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
