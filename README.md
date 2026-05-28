@@ -50,7 +50,7 @@ AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer
 AI-powered fraud detection system using GANs, Random Forest & XGBoost for intelligent fraud analysis.
 
 🔗 Repository:
-https://github.com/ashraya-manjunath
+https://github.com/ashraya-manjunath/UPI-Fraud-Detection
 
 ### ⚡ Tech Stack
 `Python` `GANs` `Random Forest` `XGBoost` `Flask`
@@ -62,7 +62,7 @@ https://github.com/ashraya-manjunath
 Real-time Face Recognition Attendance System using FaceNet, MTCNN & OpenCV.
 
 🔗 Repository:
-https://github.com/ashraya-manjunath
+https://github.com/ashraya-manjunath/Smart-Attendance-System-
 
 ### ⚡ Tech Stack
 `Python` `FaceNet` `PyTorch` `OpenCV` `Streamlit`
@@ -74,7 +74,7 @@ https://github.com/ashraya-manjunath
 Cloud-enabled smart toll collection system using GPS geofencing and AWS cloud infrastructure.
 
 🔗 Repository:
-https://github.com/ashraya-manjunath/House-Rental-Management-System
+https://github.com/ashraya-manjunath/GPS_Smart_Vehicle_Tracker
 
 ### ⚡ Tech Stack
 `Python` `AWS` `MongoDB Atlas` `Flask`
