@@ -171,13 +171,7 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraya-manjunath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
