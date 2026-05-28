@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ashraya M 🚀</h1>
 
 <h3 align="center">
-AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer Data Analyst
+AI & ML Engineer • Computer Vision Developer • Agentic AI Explorer • Data Analyst
 </h3>
 
 <p align="center">
