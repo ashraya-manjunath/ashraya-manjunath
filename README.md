@@ -133,9 +133,8 @@ https://github.com/ashraya-manjunath/qr-attendance-ai-main
 # 🛠️ Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,flask,mysql,mongodb,tensorflow,pytorch,opencv,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,flask,mysql,mongodb,tensorflow,pytorch,opencv,aws,git,github,vscode&theme=dark" />
 </p>
-
 ---
 
 # 🤖 AI & ML Expertise
